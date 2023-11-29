@@ -1,0 +1,20 @@
+{
+  "Icons-24": {
+    "fileName": "outline",
+    "prefix": "oOutline",
+    "multipass": false,
+    "onlyD": true
+  },
+  "Icons-24-bold": {
+    "fileName": "fill",
+    "prefix": "oFill",
+    "multipass": false,
+    "onlyD": true
+  },
+  "Icons-24-bulk": {
+    "fileName": "colorFul",
+    "prefix": "oColorFul",
+    "multipass": true,
+    "onlyD": false
+  }
+}
